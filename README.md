@@ -1,1 +1,2 @@
-LangChain and OpenAI practice
+LangChain and OpenAI practice <br>
+Creating GenAiAppWithOpenAi
